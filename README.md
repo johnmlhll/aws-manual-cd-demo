@@ -9,5 +9,5 @@ This is a manual deploy pipeline demo which deploys a static webpage with no fra
 Architecture 
 ------------
 
-Local Development Project -> Github Repo --> AWS CodeDeploy ---> EC2 Instance (Public URL available_ post deployment/update
+Local Development Project -> Github Repo --> AWS CodeDeploy ---> EC2 Instance (Public URL available_ post deployment/update)
 
